@@ -4,4 +4,5 @@
 
 ## 资料参考
 
+- [中国人大网 《诈骗罪有哪些特征？》](http://www.npc.gov.cn/npc/c2374/200204/619a12682b5349669aae3b03047a92d0.shtml)
 - [百度百科 诈骗罪](https://baike.baidu.com/item/诈骗罪/180736)
