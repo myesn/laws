@@ -4,6 +4,6 @@
 
 ## 资料参考
 
-- github
+- GitHub
     - ![Github stars](https://img.shields.io/github/stars/RanKKI/LawRefBook.svg) [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) 中国法律快查手册
     - ![Github stars](https://img.shields.io/github/stars/DannyVim/Chinese_Laws.svg) [DannyVim/Chinese_Laws](https://github.com/DannyVim/Chinese_Laws) 中国人民共和国现行的各类法律条文(项目重启中)
